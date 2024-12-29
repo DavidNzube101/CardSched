@@ -1,4 +1,4 @@
-### Repository Description
+# CardSched
 
 **CardSched** is a fork of the popular [react-big-calendar](https://github.com/jquense/react-big-calendar) library, tailored for seamless integration into **Next.js** projects with **TypeScript**. 
 
